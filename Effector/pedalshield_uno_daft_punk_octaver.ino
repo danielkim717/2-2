@@ -11,7 +11,7 @@
 //other variables
 int counter = 0;
 int input;
-int dist_variable=10;
+int dist_variable=5;
 byte ADC_low, ADC_high;
 
 
